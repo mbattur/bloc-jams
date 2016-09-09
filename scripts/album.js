@@ -206,5 +206,5 @@ $(document).ready(function() {
     setCurrentAlbum(albumPicasso);
     $previousButton.click(previousSong);
     $nextButton.click(nextSong);
-    $playPauseButton.click(togglePlayFromPlayerBar);
+    $playPauseButton.click(togglePlayFromPlayerbar);
 });
